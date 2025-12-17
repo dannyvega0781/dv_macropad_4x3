@@ -1,0 +1,102 @@
+{
+  "window": {
+    "always_on_top": true,
+    "compact_mode": true
+  },
+  "grid": {
+    "rows": 3,
+    "cols": 4
+  },
+  "app_paths": {
+    "pycharm_exe": "C:\\Program Files\\JetBrains\\PyCharm Community Edition 2024.1\\bin\\pycharm64.exe",
+    "python_exe": "python",
+    "powershell_exe": "powershell",
+    "word_exe": ""
+  },
+  "buttons": [
+    {
+      "slot": 1,
+      "label": "calculadora",
+      "action_id": "OPEN_CALCULATOR",
+      "color": "blue",
+      "icon": ""
+    },
+    {
+      "slot": 2,
+      "label": "terminal",
+      "action_id": "OPEN_WINDOWS_TERMINAL",
+      "color": "purple",
+      "icon": ""
+    },
+    {
+      "slot": 3,
+      "label": "browser",
+      "action_id": "OPEN_BROWSER",
+      "color": "orange",
+      "icon": ""
+    },
+    {
+      "slot": 4,
+      "label": "selet all",
+      "action_id": "HOTKEY_CTRL_A",
+      "color": "orange",
+      "icon": ""
+    },
+    {
+      "slot": 5,
+      "label": "notepad",
+      "action_id": "OPEN_NOTEPAD",
+      "color": "green",
+      "icon": ""
+    },
+    {
+      "slot": 6,
+      "label": "task",
+      "action_id": "OPEN_TASK_MANAGER",
+      "color": "blue",
+      "icon": ""
+    },
+    {
+      "slot": 7,
+      "label": "google",
+      "action_id": "OPEN_GOOGLE",
+      "color": "teal",
+      "icon": ""
+    },
+    {
+      "slot": 8,
+      "label": "power",
+      "action_id": "OPEN_POWERSHELL",
+      "color": "red",
+      "icon": ""
+    },
+    {
+      "slot": 9,
+      "label": "🧰 PyCharm",
+      "action_id": "OPEN_PYCHARM",
+      "color": "gray",
+      "icon": ""
+    },
+    {
+      "slot": 10,
+      "label": "📁 Explorer",
+      "action_id": "OPEN_FILE_EXPLORER",
+      "color": "gray",
+      "icon": ""
+    },
+    {
+      "slot": 11,
+      "label": "🐙 GitHub",
+      "action_id": "OPEN_GITHUB",
+      "color": "purple",
+      "icon": ""
+    },
+    {
+      "slot": 12,
+      "label": "✂️ Snip",
+      "action_id": "OPEN_SNIPPING_TOOL",
+      "color": "yellow",
+      "icon": ""
+    }
+  ]
+}
